@@ -14,3 +14,7 @@ body {
   li {
     color:rgb(106, 11, 194);
   }
+
+  A {
+    color:red;
+  }
