@@ -18,3 +18,16 @@ body {
   A {
     color:red;
   }
+
+  div {
+    border: 1px solid red;
+    background-color: rgb(17, 255, 17);
+    text-align: center;
+    margin: 1ch;
+  }
+
+  div.ex1 {
+    border: 2px solid rgba(14, 13, 13, 0.801);
+    background-color: rgba(65, 26, 206, 0.541);
+    text-align: center;
+  }
