@@ -31,3 +31,9 @@ body {
     background-color: rgba(65, 26, 206, 0.541);
     text-align: center;
   }
+
+  div.exe2 {
+    border: 1px solid black;
+    background-color: chocolate;
+    text-align: center;
+  }
